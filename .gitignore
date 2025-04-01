@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Resultados del script
+out/*
+tmp/*
+model/*.pkl
+data/labelsCorreoArg/*
+data/labelsMl/*
+data/ejemplo*.pdf
